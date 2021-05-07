@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
 for m in range(1,6):
     sayi=int(input("Sayıyı Girin : "))
     if sayi > 1:
