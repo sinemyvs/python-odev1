@@ -1,1 +1,1 @@
-# python-hafta1
+# python-ödev1
