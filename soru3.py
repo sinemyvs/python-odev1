@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[5]:
-
-
 def TemizVeri(): 
     ilk_string ="Ah5me4t" 
     ikinci_string = "M9eHm4eT" 
