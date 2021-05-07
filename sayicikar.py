@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[1]:
-
-
 def TemizVeri(): 
     a = "1234567890"
     ilk_string ="Ah5me4t" 
