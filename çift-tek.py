@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[1]:
-
-
 s=input("Bir sayi giriniz: ")
 sayi=int(s)
 if sayi%2==0:
